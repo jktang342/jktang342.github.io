@@ -58,11 +58,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -90,17 +87,6 @@
       ]
     },
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    },
     {
       "organization": "",
       "website": "",
@@ -116,8 +102,8 @@
     {
       "title": "First place",
       "date": "2017",
-      "awarder": "FIRST Robotics Competition",
-      "summary": "My high school team won first place in 2017.  See my portfolio site for more details."
+      "awarder": "FIRST Robotics Competition Steamworks (Local)",
+      "summary": "My high school team won first place in 2017 for the local Hawaii competition.  See my portfolio site for more details."
     }
   ],
   "references": [
