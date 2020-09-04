@@ -6,6 +6,7 @@ title: The Javascript Experience
 date: 2020-09-03
 labels:
   - Learning
+  - Javascript
 ---
 
 <img class="ui medium right floated rounded image" src="../images/javascript.jpeg">
