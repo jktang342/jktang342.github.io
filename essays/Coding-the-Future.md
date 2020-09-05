@@ -10,3 +10,7 @@ labels:
 ---
 
 I am still considered a "newbie" in terms of software engineering. While I'm still taking classes on all the different kinds of coding language, I am happy to be able to create my own programs for fun. Software engineering allows me to create some program for the use of others. Starting with a small bit of coding to make a computer say "Hello World" and now to making a simple game like Flappy Bird. I hope to one day make a program that will make people's lives easier. 
+
+##Developing an Interest
+
+I first became interested in coding when I was in high school. I am an avid gamer and after playing many games, I began to start to wonder how I could make a game. My school didn't have much in terms of teaching computer coding, so when I started college I decided to try majoring in computer science. ICS 111 taught me about Java coding where I made my first leap in learning about coding. I made a few games which unfortunately were lost due to my old laptop breaking down. 
