@@ -4,7 +4,7 @@ type: project
 image: images/ukulele.jpg
 title: Learning Music
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2010-03-21
 labels:
   - Music
 summary: My experience learning to play the ukulele.
