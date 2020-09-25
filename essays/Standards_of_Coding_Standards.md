@@ -12,7 +12,7 @@ labels:
 
 Everyone has different standards when it comes to coding. Whether people agree that there should be one or two spaces between your curly braces or if they should be on the next line is up  to them. Recently I've been using ESLint on IntelliJ as my current coding standard. I believe that everyone has a point in what coding should look like, but coding standards will always in the end follow a few rules that everyone agrees upon.
 
-## Experiences ESLint
+## Experiences with ESLint
 
 On IntelliJ, I installed ESLint to help check my code is up to standards. Even though sometimes it's annoying to see that my spacing is off because I got used to writing a certain way, it shows me other ways to clean my code up. ESLint gives me new standards to learn and possibly will help to improve my own standards. Using these coding standards for class will overall be a great benefit for me. I have a feeling that I will be able to clean up my code even more after this semester is over.
 
