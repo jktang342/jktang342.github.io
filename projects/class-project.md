@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/classtellations.png
-title: Classtelations
+title: Classtellations
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
