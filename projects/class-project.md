@@ -9,7 +9,7 @@ labels:
   - Web Design
   - Teamwork
   - React/Meteor
-summary: Final project for ICS 314. It was a group project that we created to help ICS students plan out their classes/
+summary: Final project for ICS 314. It was a group project that we created to help ICS students plan out their classes.
 ---
 
 ## What is "Classtellations"
