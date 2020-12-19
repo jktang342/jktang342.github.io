@@ -22,7 +22,7 @@ Now as simple as "coding standards" sounds, it is really good to have a definiti
 
 ## Agile Project Management
 
-At some point during a person's life you will need to cooperate with other people to accomplish some goal. This concept is about working from what you want and making problems to create the project. Github was a great way for my group to manage our problems and as well as check up on the progress of what we still need to do. I used this concept particularly when designing my final group project. To learn more about that project please check out Classtelations.
+At some point during a person's life you will need to cooperate with other people to accomplish some goal. This concept is about working from what you want and making problems to create the project. Github was a great way for my group to manage our problems and as well as check up on the progress of what we still need to do. I used this concept particularly when designing my final group project. To learn more about that project please check out [Classtelations](https://jktang342.github.io/projects/class-project.html).
 
 ## Is this the End?
 
