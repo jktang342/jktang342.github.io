@@ -42,6 +42,11 @@
       "name": "robotics",
       "keywords": [
       ]
+    },
+    {
+      "name": "web design",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -52,6 +57,9 @@
         "C++",
         "Java",
         "Javascript",
+        "React",
+        "Semantic UI",
+        "HTML"
       ]
     },
     {
@@ -59,7 +67,7 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],

@@ -11,7 +11,7 @@ labels:
 summary: Learning and teaching about raids in Destiny 2.
 ---
 
-Destiny 2 is a "shooter-looter" game which means that it's a game that uses guns, but has an open world aspect. In Destiny 2 there is player versus player (PVP) content and player versus environment (PVE) content. Raids fall under PVE content and consist of a group of 6 people completeing objectives to defeat a boss. My experience with these raids are lots of excitement and lots of anxiety. The raid that I will be talking about is the Scourge of the Past raid. If you want more information about the raid's specifics, there are many more detailed guides on youtube.
+Destiny 2 is a "shooter-looter" game which means that it's a game that uses guns, but has an open world aspect. In Destiny 2 there is player versus player (PVP) content and player versus environment (PVE) content. Raids fall under PVE content and consist of a group of 6 people completing objectives to defeat a boss. My experience with these raids are lots of excitement and lots of anxiety. The raid that I will be talking about is the Scourge of the Past raid. If you want more information about the raid's specifics, there are many more detailed guides on youtube.
 
 ## Learning How to Raid
 

@@ -20,4 +20,4 @@ We had to decide out of the goals which should our robot focus on. My group deci
 
 Although we weren't the top scoring we were chosen by another group due to how effective our robot was at its job. It was very tense at the time, but I was happy to see the programs working as they should. When we won the competition everyone was ecstatic and proud of what we did. It was an experience that my group would never forget!
 
-<img class="ui medium right floated rounded image" src="../images/robotics.jpg">
+<img class="ui medium centered floated rounded image" src="../images/robotics.jpg">

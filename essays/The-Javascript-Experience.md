@@ -11,7 +11,7 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/javascript.jpeg">
 
-As a student learning about computer science, I encouter the many varieties of coding language. This semester I'm focusing on Javascript and it is interesting to learn about. I've previously learned how to code in Java in the beginning of my college life and now I can see many similarities between the two. For me, it feels like Javascript is easier to learn than other languages possibly because of my background with Java. Learning Javascript is very helpful and it feels like I will be able to use it in future careers. From what I've currently experienced Javascript seems very fun and a type of coding that I will be using after I complete ICS 314.
+As a student learning about computer science, I encounter the many varieties of coding language. This semester I'm focusing on Javascript and it is interesting to learn about. I've previously learned how to code in Java in the beginning of my college life and now I can see many similarities between the two. For me, it feels like Javascript is easier to learn than other languages possibly because of my background with Java. Learning Javascript is very helpful and it feels like I will be able to use it in future careers. From what I've currently experienced Javascript seems very fun and a type of coding that I will be using after I complete ICS 314.
 
 ## Class Experience 
 

@@ -16,7 +16,7 @@ Personally I would say no, to a degree. A question is asked due to a person not 
 
 ## Mr. Eric Steven Raymond's Guide
 
-My understanding of Mr. Raymond's "How to" is to check if your question has been answered, make sure you ask the right people, and don't make your problem everyone else's problem. One of the first things he states about what to do is to check if you're question has already been asked before. It boils down to, "If the question has been answered then why ask again?". Asking the right people means that, for example, you're not going to go up to your English teacher and ask him/her a calculus question. Although they might have an answer it wouldn't logically make sense. The same thing occurs online through the use of online fourms. Being off-topic means you would have a less likely chance of getting an answer on the fourms page. When you have a problem you don't have to be crude about asking for assistance. Demanding by saying "HELP!" or trying to get your post noticed may lead to an opposite effect. Having good etiquette by explaining your problem and what you have tried to do and what you wish to accomplish can help get what you need.
+My understanding of Mr. Raymond's "How to" is to check if your question has been answered, make sure you ask the right people, and don't make your problem everyone else's problem. One of the first things he states about what to do is to check if you're question has already been asked before. It boils down to, "If the question has been answered then why ask again?". Asking the right people means that, for example, you're not going to go up to your English teacher and ask him/her a calculus question. Although they might have an answer it wouldn't logically make sense. The same thing occurs online through the use of online forums. Being off-topic means you would have a less likely chance of getting an answer on the forums page. When you have a problem you don't have to be crude about asking for assistance. Demanding by saying "HELP!" or trying to get your post noticed may lead to an opposite effect. Having good etiquette by explaining your problem and what you have tried to do and what you wish to accomplish can help get what you need.
 
 ## Smart Question
 
@@ -28,7 +28,7 @@ I believe this to be an example of a smart question because the person states th
 
 <https://stackoverflow.com/questions/60167692/how-are-emojis-with-skin-tones-internally-represented>
 
-This question is not so smart due to what it is about. The person is asking about how emojis are internally represented, but this question isn't really on topic to Stack Overflow's guidelines. Although it can be interpreted as a programming question, this question would be better suited to another fourm such as Super User since the question isn't directly about coding. 
+This question is not so smart due to what it is about. The person is asking about how emojis are internally represented, but this question isn't really on topic to Stack Overflow's guidelines. Although it can be interpreted as a programming question, this question would be better suited to another forum such as Super User since the question isn't directly about coding.
 
 ## My Final Take
 
