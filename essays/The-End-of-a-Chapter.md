@@ -18,7 +18,7 @@ With another year coming to an end, so too is this year of college. This fall se
 
 ## Coding Standards
 
-Now as simple as "coding standards" sounds, it is really good to have a definition of them. Everyone codes slightly differently from each other, but we all should follow basic coding standards so that we can help each other better. Not only does following coding standards make life easier for others who view your code, it makes it easier for yourself to see what you are doing as it is formatted in a clean way. If you want to hear more about my opinion on coding standards, please check out the essay Standards of Coding Standards!
+Now as simple as "coding standards" sounds, it is really good to have a definition of them. Everyone codes slightly differently from each other, but we all should follow basic coding standards so that we can help each other better. Not only does following coding standards make life easier for others who view your code, it makes it easier for yourself to see what you are doing as it is formatted in a clean way. If you want to hear more about my opinion on coding standards, please check out the essay [Standards of Coding Standards](https://jktang342.github.io/essays/Standards_of_Coding_Standards.html)!
 
 ## Agile Project Management
 
