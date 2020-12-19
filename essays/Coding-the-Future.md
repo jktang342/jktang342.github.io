@@ -15,7 +15,7 @@ I am still considered a "newbie" in terms of software engineering. While I'm sti
 
 I first became interested in coding when I was in high school. I am an avid gamer and after playing many games, I began to start to wonder how I could make a game. My school didn't have much in terms of teaching computer coding, so when I started college I decided to try majoring in computer science. ICS 111 taught me about Java coding where I made my first leap in learning about coding. I made a few games which unfortunately were lost due to my old laptop breaking down. I am still working on bettering my understanding and my interest continues to grow.
 
-I am also interested in learning about website development as well. It is fun to make something that everyone else can see and also can have functional use as well. Making a website is something that I have done really simply, but I did create a project with a team to help ICS major students plan out their college life. If you want to learn more about it please check out Classtellations in my projects page!
+I am also interested in learning about website development as well. It is fun to make something that everyone else can see and also can have functional use as well. Making a website is something that I have done really simply, but I did create a project with a team to help ICS major students plan out their college life. If you want to learn more about it please check out [Classtellations](https://jktang342.github.io/projects/class-project.html)!
 
 ## The Future
 
